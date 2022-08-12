@@ -15,7 +15,7 @@
   <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="Javascript" width="60"> 
   <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React" width="60"> 
   <img src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="Node.js" width="60">
-   <img src=" https://www.svgrepo.com/show/354310/sass.svg" alt="Sass" width="60">
+   <img src="https://www.svgrepo.com/show/354310/sass.svg" alt="Sass" width="60">
  
 </div>
 
