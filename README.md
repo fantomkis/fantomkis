@@ -17,9 +17,16 @@
   <img src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="Node.js" width="60">
    <img src="https://www.svgrepo.com/show/354310/sass.svg" alt="Sass" width="60">
   <img src="https://www.svgrepo.com/show/373653/handlebars.svg" alt="handlebars" width="60">
+  <img src="https://www.svgrepo.com/show/353778/git.svg" alt="git" width="60">
+  <img src="https://www.svgrepo.com/show/344880/github.svg" alt="github" width="60">
+  <img src="https://www.svgrepo.com/show/354987/figma.svg" alt="figma" width="60">
+  <img src="https://www.svgrepo.com/show/374169/vscode2.svg" alt="vscode" width="60">
+  
+  
   
  
 </div>
+
 
 <!---
 Pavlo-Kysliak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
